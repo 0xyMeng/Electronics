@@ -1,25 +1,19 @@
 
-![GitHub last commit](https://badgen.net/github/last-commit/xym-ee/electronics/main)
-![Github commits](https://badgen.net/github/commits/xym-ee/electronics/main)
+![GitHub last commit](https://badgen.net/github/last-commit/xym-ee/electronics/gitbook)
 ![Github stars](https://badgen.net/github/stars/xym-ee/electronics)
 ![Github forks](https://badgen.net/github/forks/xym-ee/electronics)
-![no problems](https://badgen.net/badge/license/CC-BY-NC-SA%204.0/blue)
+![Github commits](https://badgen.net/github/commits/xym-ee/electronics/gitbook)
+![License](https://badgen.net/badge/license/CC-BY-NC-SA%204.0/blue)
 
-*感谢访问我的学习笔记,感谢朋友们的star。*
+*感谢访问我的学习笔记。*
 
-*如果是在 GitHub 看到这些内容，那么可以前往[独立网页](https://xym.work/electronics/)获得更好的浏览体验。*
+*如果是在GitHub看到这些内容，那么可以前往[独立网页](https://electronics.xym.work)获得更好的浏览体验。*
 
 *如果觉得我的笔记内容对您有帮助，那我会感到非常开心。*
 
-最重要的
+最重要的**如果我在内容上有理解错误，或者表达不严谨，还请不吝指正。**
 
-**如果我在内容上有理解错误，或者表达不严谨、符号不规范的地方，还请不吝指正。**
-
-<img src = "./images/wechat.png" width="100px" align="right">
-
-我的邮箱：[*m@njust.edu.cn*]()
-
-或者扫描右侧二维码添加我的微信交流
+我的联系方式(微信/QQ)请查看[个人主页](https://xym.work)，欢迎朋友们互相交流、一起学习。
 
 ---
 
@@ -48,17 +42,16 @@
   - [ ] 直流电机控制：电机特性、开环控制、转速闭环、转速电流双闭环
   - [ ] 交流电机控制，异步电机、同步电机 FOC 控制
 
-
-
 ---
+
+## 修改记录
+
+- 2023-02-05 增加了一些插图，数字电路部分结合了一些计算机知识学习的思路。
+- 2024-02-02 把电机与电机控制的内容也整合到了这个笔记中。
+- 2024-06-06 整体迁移到 gitbook 平台，整合了电机控制的内容。
 
 ## 简单介绍
 
-```note
-修改记录：
-- 2023-02-05 增加了一些插图，数字电路部分结合了一些计算机知识学习的思路。
-- 2024-02-02 把电机与电机控制的内容也整合到了这个笔记中。
-```
 这个笔记本的结构基本上参考了 The Art of Electronics 这本书，内容上参考了电类专业的经典教材。
 
 <figure>
